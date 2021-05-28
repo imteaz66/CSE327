@@ -81,6 +81,6 @@ public class DoctorUsers {
 //    }
 
     public String toString(){
-        return "Doctors Name: "+this.fullName+", Speciality: "+this.speciality+", Address: "+PresentAddress+", Phone: "+PhoneNumber;
+        return "Doctors Name:  "+this.fullName+", Speciality:  "+this.speciality+", Address:  "+PresentAddress+", Phone:  "+PhoneNumber;
     }
 }
