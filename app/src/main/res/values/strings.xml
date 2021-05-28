@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">doctor near us</string>
+
+    <string name='api_key' translatable="false">
+        AIzaSyCaWSX0ye2hTJqZW5g00UEXo7ODZgjE4Zc
+     </string>
+
+    <string-array name="names2">
+        <item>  </item>
+        <item> Log in As a Doctor  </item>
+        <item>  Log in As a Patient</item>
+
+    </string-array>
+
+    <string-array name="names">
+        <item>  </item>
+        <item> Register As a Doctor  </item>
+        <item>  Register As a Patient</item>
+
+    </string-array>
+
+</resources>

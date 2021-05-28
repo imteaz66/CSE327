@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755004089772",
+    "project_id": "doctor-near-us-3df1f",
+    "storage_bucket": "doctor-near-us-3df1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755004089772:android:c80a40c7a3904278ca8609",
+        "android_client_info": {
+          "package_name": "com.example.doctornearus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755004089772-64vo3fvtkdj58cpvb7i23tbgs055khm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdQCRD6BxMn-ZFVXR9I-qSrnGg07DSlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755004089772-64vo3fvtkdj58cpvb7i23tbgs055khm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
